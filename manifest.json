@@ -1,0 +1,10 @@
+{
+  "id": "free-image-to-video",
+  "name": "Free Image to Video",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Turn a vault image or a prompt into a video clip with sound, saved and embedded in your note.",
+  "author": "Free Image to Video",
+  "authorUrl": "https://freeimagetovideo.ai",
+  "isDesktopOnly": false
+}
